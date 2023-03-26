@@ -1,0 +1,17 @@
+/* Stylesheet */
+
+.odd{
+    background-color: pink;
+    font-family: 'Courier New', Courier, monospace
+}
+.enlarged{
+    font-size: 24px;
+}
+#two{
+    color: blue;
+    font-size: 36PX;
+}
+#four{
+    background-color: lightgreen;
+    font-weight: bold;
+}
